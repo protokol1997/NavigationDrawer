@@ -1,2 +1,1 @@
-# NavigationDrawer
-From Dicoding
+# AndroidNavigation
